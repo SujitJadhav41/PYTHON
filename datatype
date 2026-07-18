@@ -1,0 +1,3 @@
+print("hello world ")
+a = 3 # int
+b = 4.4 # float
