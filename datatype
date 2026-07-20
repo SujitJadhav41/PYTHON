@@ -4,3 +4,4 @@ b = 4.4 # float
 # you can also take input throw user 
 name = input("what is your name: ")
 salary = float(input("what is your salary: "))
+# this is only for understanding
